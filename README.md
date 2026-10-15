@@ -1,4 +1,4 @@
-# Hey, I'm Chandler 👋
+# Hey, I'm Shaurya Agarwal 👋
 
 I'm a CS sophomore at VIT Chennai who gets a little too excited about how software works, and even more excited about making it work *better*.
 
