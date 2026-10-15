@@ -45,6 +45,6 @@ Plenty of people build apps with an LLM bolted on. I'm more interested in the pa
 
 ## 📫 Say hi
 
-[LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/shaurya-agarwal-1171592a3/) · [Email](mailto:agarwalshaurya05@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/shaurya-agarwal-1171592a3/) · [Email](mailto:agarwalshaurya05@gmail.com) 
 
 *If you're building something interesting, I'd love to hear about it.*
