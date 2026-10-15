@@ -2,7 +2,7 @@
 
 I'm a CS sophomore at VIT Chennai who gets a little too excited about how software works, and even more excited about making it work *better*.
 
-I call myself a **Full-Stack SDE with applied ML as a secondary strength**, but the honest version is: I like building things that feel like real products, not tutorials.
+I call myself a **Full-Stack SDE with applied ML as a secondary strength, also having interest in Data science**, but the honest version is: I like building things that feel like real products, not tutorials.
 
 ---
 
@@ -29,7 +29,7 @@ Plenty of people build apps with an LLM bolted on. I'm more interested in the pa
 
 ## 🛠️ Toolbox
 
-`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `FastAPI` `PostgreSQL` `Supabase` `Docker` `AWS` `GenAI` `Data Science`
+`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `FastAPI` `PostgreSQL` `Supabase` `Docker` `AWS` `GenAI` `Data Science` `ML` `Deep Learning` `NLP`
 
 ☁️ AWS Certified Cloud Practitioner
 
@@ -45,6 +45,6 @@ Plenty of people build apps with an LLM bolted on. I'm more interested in the pa
 
 ## 📫 Say hi
 
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:your.email@example.com) · [Portfolio](https://your-site.dev)
+[LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/shaurya-agarwal-1171592a3/) · [Email](mailto:agarwalshaurya05@gmail.com) 
 
 *If you're building something interesting, I'd love to hear about it.*
