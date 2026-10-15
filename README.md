@@ -29,7 +29,7 @@ Plenty of people build apps with an LLM bolted on. I'm more interested in the pa
 
 ## 🛠️ Toolbox
 
-`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `FastAPI` `PostgreSQL` `Supabase` `Docker` `AWS`
+`Python` `TypeScript` `JavaScript` `React` `Next.js` `Node.js` `FastAPI` `PostgreSQL` `Supabase` `Docker` `AWS` `GenAI` `Data Science`
 
 ☁️ AWS Certified Cloud Practitioner
 
